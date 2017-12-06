@@ -91,3 +91,15 @@ div p {
 .btn:hover {
   background-color: #000;
 }
+
+.knights {
+  background-color: #ccc;
+}
+
+.dragon {
+  background-color: #aaa;
+}
+
+.laser-ships {
+  background-color: #999;
+}
